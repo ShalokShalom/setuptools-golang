@@ -1,5 +1,7 @@
 # DEPRECATED
 
+*Note:* There is a maintained [alternative.](https://github.com/tliron/py4go)
+
 it turns out multiple go shared objects in a single process is not supported
 
 it likely broke in [go 1.21] and there is no intention to fix it :(
